@@ -6,5 +6,4 @@ Struktur data yang diterapkan pada program ini adalah List (Array 1 Dimensi). Li
 
 source code:
 
-![alt text](https://github.com/raihandarrelrafafadilah2515061107/PSD-2026-2515061107/edit/main/Screenshot%202026-04-29%20170706.png
-)
+<img width="382" height="404" alt="Screenshot 2026-04-29 170706" src="https://github.com/user-attachments/assets/b1beb07c-4780-43e0-9966-db3f1353bb99" />
