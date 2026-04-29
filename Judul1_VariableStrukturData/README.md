@@ -10,11 +10,6 @@ source code:
 Digunakan untuk membuat fungsi menu yang menampilkan daftar pilihan program
 
 
-
-
-
-
-
 <img width="161" height="15" alt="Screenshot 2026-04-29 181051" src="https://github.com/user-attachments/assets/75c881fe-b0b9-4dc3-a248-6c225b446aeb" />
 Menampilkan judul menu toko
 
