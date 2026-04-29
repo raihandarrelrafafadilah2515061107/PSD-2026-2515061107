@@ -7,6 +7,7 @@ Struktur data yang diterapkan pada program ini adalah List (Array 1 Dimensi). Li
 source code:
 
 <img width="92" height="19" alt="Screenshot 2026-04-29 180850" src="https://github.com/user-attachments/assets/93c69edd-0748-4608-88cb-81a8fedb1f5d" />
+
 Digunakan untuk membuat fungsi menu yang menampilkan daftar pilihan program
 
 
