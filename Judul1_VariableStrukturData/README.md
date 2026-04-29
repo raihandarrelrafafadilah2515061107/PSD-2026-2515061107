@@ -86,3 +86,7 @@ Program berhasil menampilkan seluruh data harga barang yang telah diinput tanpa 
 <br><br>
 <img width="134" height="37" alt="Screenshot 2026-04-29 185446" src="https://github.com/user-attachments/assets/3bf05e88-eba7-41f6-be18-d35492231409" />
 Program selesai
+
+<br><br>
+Link Video Youtube:
+https://youtu.be/YGEb4O9cv_U?si=tSG9YfnrSJM5RbjH
