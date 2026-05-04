@@ -6,6 +6,7 @@ Metode insertion sort bekerja dengan cara membandingkan data satu per satu dari 
 
 
 SOURCE CODE:
+
 INPUT
 
 
