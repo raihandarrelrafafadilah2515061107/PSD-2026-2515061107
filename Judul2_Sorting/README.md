@@ -11,7 +11,6 @@ INPUT
 
 <img width="212" height="26" alt="Screenshot 2026-05-04 201810" src="https://github.com/user-attachments/assets/16a32994-f83f-4cad-9fc3-0112ae42582b" />
 Membuat fungsi bernama insertion_sort.
-
-
+<BR>
 <img width="168" height="20" alt="Screenshot 2026-05-04 202027" src="https://github.com/user-attachments/assets/ce434d8c-48b4-4064-a882-abd56f2a8008" />
 Perulangan dimulai dari indeks ke-1 sampai terakhir.
