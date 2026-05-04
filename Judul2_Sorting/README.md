@@ -46,7 +46,6 @@ Membuat list kosong untuk menyimpan ukuran sepatu dan menampilkan instruksi inpu
 <img width="147" height="23" alt="Screenshot 2026-05-04 204037" src="https://github.com/user-attachments/assets/1573d0d2-6fbe-4782-802e-209061558d7c" />
 Perulangan sebanyak jumlah mahasiswa.
 <br><br>
-<img width="97" height="28" alt="Screenshot 2026-05-04 204136" src="https://github.com/user-attachments/assets/12e4a9e8-9d7f-460a-83c5-6dc6e7d4f8e8" />
 <img width="87" height="14" alt="Screenshot 2026-05-04 204207" src="https://github.com/user-attachments/assets/a11a397e-8188-4705-97dc-2d5e42badc4b" />
 Perulangan tanpa batas dan akan berhenti jika input valid.
 <br><br>
