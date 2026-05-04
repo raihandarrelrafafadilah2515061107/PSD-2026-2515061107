@@ -73,3 +73,16 @@ Mengecek apakah file dijalankan langsung dan menjalankan fungsi utama program.
 <br><br>
 
 OUTPUT
+<img width="403" height="35" alt="Screenshot 2026-05-04 210007" src="https://github.com/user-attachments/assets/032ed62a-9895-4b38-b41b-2052ef6fdb6e" />
+User diminta untuk memasukkan jumlah mahasiswa
+<br><br>
+<img width="457" height="154" alt="Screenshot 2026-05-04 210108" src="https://github.com/user-attachments/assets/fb5e86ec-1363-420b-a93a-b736fbad9b71" />
+Setelah memasukkan jumlah mahasiswa, selanjutnya adalah memasukkan ukuran sepatu masing-masing mahasiswa, lalu data tersebut di sorting berdasarkan terkecil hingga terbesar
+
+<br><br>
+
+PROGRAM SELESAI
+
+<BR><BR>
+
+LINK VIDEO YOUTUBE: https://youtu.be/pU3SE7O1R6k
