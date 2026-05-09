@@ -12,5 +12,6 @@ KODE:
 Membuat fungsi untuk mencari ukuran sepatu tertentu dalam daftar data.
 <br><br>
 <img width="52" height="20" alt="Screenshot 2026-05-09 191953" src="https://github.com/user-attachments/assets/870c1799-4c71-4b4a-b6a6-08efa35cd21a" />
+Variabel i digunakan sebagai indeks awal pencarian.
 <br><br>
 <img width="93" height="18" alt="Screenshot 2026-05-09 192028" src="https://github.com/user-attachments/assets/60671716-44c0-4fb3-9235-7b3e54cd04a1" />
