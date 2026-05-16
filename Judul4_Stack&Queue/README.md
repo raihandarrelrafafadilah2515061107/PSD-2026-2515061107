@@ -57,7 +57,7 @@ Fungsi utama program.
 <img width="155" height="39" alt="Screenshot 2026-05-16 210337" src="https://github.com/user-attachments/assets/76cc8cc5-eba0-4088-a820-b346cedfcc67" />
 Membuat objek stack.
 <br><br>
-<img width="297" height="126" alt="Screenshot 2026-05-16 210443" src="https://github.com/user-attachments/assets/4782504c-be34-48f9-ac7e-c22cce18d18d" />
+<img width="305" height="123" alt="Screenshot 2026-05-16 212357" src="https://github.com/user-attachments/assets/421b8976-b163-4993-8a5a-de97c11ecd51" />
 Loop menu yang akan berjalan terus menerus beserta input yang dapat dimasukkan, program akan berhenti jika user memilih opsi ke 5 yaitu keluar
 <br><br>
 <img width="237" height="96" alt="Screenshot 2026-05-16 210858" src="https://github.com/user-attachments/assets/b8545441-25e2-49f7-bcc8-bfa4b77f95b6" />
@@ -72,3 +72,22 @@ berarti program akan langsung menjalankan main() hanya jika file ini dijalankan 
 <br><br>
 Output
 
+<img width="205" height="94" alt="Screenshot 2026-05-16 212513" src="https://github.com/user-attachments/assets/fe6828fc-542e-4714-b3fe-d5b9cac1ad94" />
+Menu ini berfungsi untuk mengatur seluruh proses pada tumpukan majalah.
+<br><br>
+<img width="247" height="146" alt="Screenshot 2026-05-16 212737" src="https://github.com/user-attachments/assets/531bcd8b-d53d-4dea-b22a-0ad35dd93653" />
+menambahkan majalah ke tumpukan.
+<br><br>
+<img width="245" height="126" alt="Screenshot 2026-05-16 212823" src="https://github.com/user-attachments/assets/d0bd66a1-e690-4e73-8f65-3e02015bf4a9" />
+mengambil majalah paling atas.
+<br><br>
+<img width="197" height="126" alt="Screenshot 2026-05-16 212908" src="https://github.com/user-attachments/assets/3b7ceff5-e3b9-49c3-b339-4aac1dd2c528" />
+melihat majalah paling atas tanpa menghapus.
+<br><br>
+<img width="369" height="127" alt="Screenshot 2026-05-16 212954" src="https://github.com/user-attachments/assets/82d3ca6f-b129-4906-b30d-2632b7abdf05" />
+menampilkan seluruh isi tumpukan.
+<br><br>
+<img width="207" height="128" alt="Screenshot 2026-05-16 213051" src="https://github.com/user-attachments/assets/08dd6c01-f54e-47e2-9d10-09a54e56feab" />
+menghentikan program.
+<br><br>
+Link Youtube:
