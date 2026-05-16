@@ -6,3 +6,10 @@ Program ini memungkinkan pengguna untuk menaruh majalah ke dalam tumpukan, menga
 
 Source Code:
 
+<img width="128" height="22" alt="Screenshot 2026-05-16 204148" src="https://github.com/user-attachments/assets/9e87aefc-77e3-4358-b723-2c069b9801e7" />
+Membuat class bernama StackArray sebagai wadah struktur data stack.
+<br><br>
+<img width="239" height="66" alt="Screenshot 2026-05-16 204315" src="https://github.com/user-attachments/assets/8a9f54b6-4f25-426b-9c6b-c1fc11f12a01" />
+MAX adalah batas maksimal tumpukan
+st adalah array untuk menyimpan data (majalah)
+top_idx = -1 artinya tumpukan masih kosong
