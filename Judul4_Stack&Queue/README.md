@@ -10,6 +10,6 @@ Source Code:
 Membuat class bernama StackArray sebagai wadah struktur data stack.
 <br><br>
 <img width="239" height="66" alt="Screenshot 2026-05-16 204315" src="https://github.com/user-attachments/assets/8a9f54b6-4f25-426b-9c6b-c1fc11f12a01" />
-MAX adalah batas maksimal tumpukan
-st adalah array untuk menyimpan data (majalah)
+MAX adalah batas maksimal tumpukan,
+st adalah array untuk menyimpan data (majalah), dan
 top_idx = -1 artinya tumpukan masih kosong
