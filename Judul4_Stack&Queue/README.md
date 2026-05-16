@@ -71,7 +71,7 @@ berarti program akan langsung menjalankan main() hanya jika file ini dijalankan 
 <br><br>
 <br><br>
 Output
-
+<br><br>
 <img width="205" height="94" alt="Screenshot 2026-05-16 212513" src="https://github.com/user-attachments/assets/fe6828fc-542e-4714-b3fe-d5b9cac1ad94" />
 Menu ini berfungsi untuk mengatur seluruh proses pada tumpukan majalah.
 <br><br>
