@@ -48,6 +48,8 @@ Jika kosong akan menampilkan pesan tidak ada majalah.
 Menampilkan data teratas.
 <br><br>
 <img width="140" height="28" alt="Screenshot 2026-05-16 210055" src="https://github.com/user-attachments/assets/ab7992ae-ec54-48da-b9e4-50c183a7fcbf" />
+Menampilkan seluruh isi tumpukan.
+<br><br>
 <img width="262" height="56" alt="Screenshot 2026-05-16 210138" src="https://github.com/user-attachments/assets/3c0e3e2f-eb59-4dac-9bbd-93855ea27382" />
 Loop dari atas ke bawah.
 <br><br>
