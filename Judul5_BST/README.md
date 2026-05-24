@@ -75,20 +75,4 @@ Output
 <img width="267" height="201" alt="Screenshot 2026-05-24 120454" src="https://github.com/user-attachments/assets/c33c63d8-dadb-43b9-81e8-f049531630fb" />
 Output ini muncul ketika pengguna berhasil menambahkan nomor meja ke dalam BST.
 <br><br>
-Link Youtube: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Link Youtube: https://youtu.be/kC6DuHiFL3k?si=ukj-Nyqduj0FaG-0
