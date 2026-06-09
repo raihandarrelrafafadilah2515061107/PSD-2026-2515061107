@@ -13,4 +13,5 @@ Class Node berfungsi sebagai struktur dasar penyimpanan data buku. Setiap node m
 <img width="331" height="90" alt="Screenshot 2026-06-09 210856" src="https://github.com/user-attachments/assets/fc419ec9-7e37-426c-b092-f7eb254d5a61" />
 Class ini adalah inti dari HashMap. SIZE menentukan jumlah slot dalam tabel hash, sedangkan table adalah array yang digunakan untuk menyimpan data buku. Semua slot awalnya diisi None.
 <br><br>
-
+<img width="426" height="48" alt="image" src="https://github.com/user-attachments/assets/7e6c0fbc-8eda-4504-afb9-5549d2202582" />
+Fungsi ini digunakan untuk menentukan index penyimpanan data berdasarkan key. Operasi modulus memastikan key selalu masuk ke dalam range index tabel hash.
