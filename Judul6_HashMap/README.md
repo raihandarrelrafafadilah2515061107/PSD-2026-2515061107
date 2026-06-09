@@ -48,6 +48,7 @@ Jika terdapat data dalam index tersebut, seluruh node dalam chain akan ditampilk
 <br><br>
 <img width="460" height="179" alt="image" src="https://github.com/user-attachments/assets/cd4ed9b6-0319-4c36-b027-ced165939fd9" />
 Bagian ini membuat objek perpustakaan dan menambahkan beberapa data buku ke dalam hash table serta menampilkan seluruh isi data perpustakaan.
+<br><br>
 <img width="508" height="107" alt="image" src="https://github.com/user-attachments/assets/cab5c3f4-555f-4ff7-b272-7f8f2a183270" />
 Melakukan pencarian buku dengan ID 11 dan menampilkan hasilnya jika ditemukan.
 <br><br>
