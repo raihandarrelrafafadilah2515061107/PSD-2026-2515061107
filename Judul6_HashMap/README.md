@@ -63,4 +63,4 @@ OUTPUT
 <img width="809" height="476" alt="image" src="https://github.com/user-attachments/assets/cfd5fe6f-d62c-44cb-9184-a8a481de866e" />
 Output menampilkan isi hash table dari index 0 hingga 9. Jika terjadi collision, data akan muncul dalam bentuk rantai (linked list) dengan tanda. Setelah itu program menampilkan hasil pencarian buku dengan ID 11. Kemudian data tersebut dihapus, dan tabel hash akan ditampilkan kembali untuk menunjukkan perubahan isi data.
 
-LINK YOUTUBE:
+LINK YOUTUBE: https://youtu.be/ii8iamfrBjY?si=U73roU1Fh2B850eR
