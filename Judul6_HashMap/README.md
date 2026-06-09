@@ -37,7 +37,29 @@ Fungsi ini digunakan untuk menghapus data buku. prev digunakan untuk melacak nod
 <img width="368" height="131" alt="image" src="https://github.com/user-attachments/assets/bc22f63e-75bc-42b8-8e4e-6568c3993dd7" />
 Jika node ditemukan, maka akan dihapus. Jika node berada di awal list, head digeser. Jika di tengah, node sebelumnya disambungkan ke node setelahnya.
 <br><br>
-<img width="208" height="47" alt="image" src="https://github.com/user-attachments/assets/b605dd06-1187-499a-ab60-0bdac2ac266d" />
+<img width="222" height="74" alt="image" src="https://github.com/user-attachments/assets/42ba059e-c516-4884-9a7d-2cfc7e515a25" />
 Pointer digeser sampai akhir list. Jika data tidak ditemukan, fungsi mengembalikan False.
 <br><br>
+<img width="455" height="98" alt="image" src="https://github.com/user-attachments/assets/50f3c989-6e55-4167-8aaf-b583d76ed456" />
+Fungsi ini digunakan untuk menampilkan seluruh isi hash table per index.
+<br><br>
+<img width="607" height="89" alt="image" src="https://github.com/user-attachments/assets/b27f7cf0-a0ab-49d3-a092-dabb194531dc" />
+Jika terdapat data dalam index tersebut, seluruh node dalam chain akan ditampilkan secara berurutan hingga Kosong.
+<br><br>
+<img width="460" height="179" alt="image" src="https://github.com/user-attachments/assets/cd4ed9b6-0319-4c36-b027-ced165939fd9" />
+Bagian ini membuat objek perpustakaan dan menambahkan beberapa data buku ke dalam hash table serta menampilkan seluruh isi data perpustakaan.
+<img width="508" height="107" alt="image" src="https://github.com/user-attachments/assets/cab5c3f4-555f-4ff7-b272-7f8f2a183270" />
+Melakukan pencarian buku dengan ID 11 dan menampilkan hasilnya jika ditemukan.
+<br><br>
+<img width="332" height="63" alt="image" src="https://github.com/user-attachments/assets/d174d620-4a13-4bd1-93e1-1e9b6e0204dc" />
+Menghapus buku dengan ID 11, lalu menampilkan kondisi terbaru hash table.
+<br><br>
+<img width="224" height="40" alt="image" src="https://github.com/user-attachments/assets/852e8c4a-890a-4551-b3d0-3200ac20683b" />
+Menjalankan program utama.
+<br><br>
+OUTPUT
+<BR><BR>
+<img width="809" height="476" alt="image" src="https://github.com/user-attachments/assets/cfd5fe6f-d62c-44cb-9184-a8a481de866e" />
+Output menampilkan isi hash table dari index 0 hingga 9. Jika terjadi collision, data akan muncul dalam bentuk rantai (linked list) dengan tanda. Setelah itu program menampilkan hasil pencarian buku dengan ID 11. Kemudian data tersebut dihapus, dan tabel hash akan ditampilkan kembali untuk menunjukkan perubahan isi data.
 
+LINK YOUTUBE:
